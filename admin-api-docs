@@ -459,10 +459,10 @@
       "$ref": "Admin/Skills#/skills_skillid_parameters_cadence-settings"
     },
     "/skills/{skillId}/parameters/time-zones": {
-      "$ref": "Admin/skills#/skills_skillid_parameters_time-zones"
+      "$ref": "Admin/Skills#/skills_skillid_parameters_time-zones"
     },
     "/skills/{skillId}/parameters/list-management": {
-      "$ref": "Admin/skills#/skills_skillid_parameters_list-management"
+      "$ref": "Admin/Skills#/skills_skillid_parameters_list-management"
     },
     "/tags": {
       "$ref": "Admin/General#/tags"
