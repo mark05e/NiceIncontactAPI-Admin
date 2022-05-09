@@ -1,3 +1,5 @@
-# Nice InContact Admin API
+# Nice InContact Admin API OASv3
 
-Soure: https://developer.niceincontact.com/API/AdminAPI
+Source: https://developer.niceincontact.com/API/AdminAPI
+
+OpenAPI Specification: https://oai.github.io/Documentation/specification.html
